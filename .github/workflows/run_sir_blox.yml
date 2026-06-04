@@ -39,4 +39,4 @@ jobs:
     - name: Run Pipeline (Convert and Execute Notebook)
       run: |
         jupyter nbconvert --to script sir_blox_v0.3.ipynb
-        python sir_blox_v0.3.py
+        python -u sir_blox_v0.3.py
