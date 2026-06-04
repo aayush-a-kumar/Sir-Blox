@@ -1,0 +1,11 @@
+# Private OAuth Credentials
+credentials.json
+token.json
+
+# Heavy Scraping Scrap Space & Local Outputs
+raw_download/
+qblox_lean_docs_latest.txt
+
+# Python System Trash
+__pycache__/
+.ipynb_checkpoints/
